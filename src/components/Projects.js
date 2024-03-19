@@ -40,7 +40,7 @@ const Projects = () => {
     774295360: { riddle: "I am a version control system popular among developers. What am I?", answer: "Git" },
     634786253: { riddle: "I am a programming language often used for web development. What am I?", answer: "JavaScript" },
     622586230: { riddle: "I am a version control system popular among developers. What am I?", answer: "Git" },
-    774336603: { riddle: "I am a programming language often used for web development. What am I?", answer: "JavaScript" },
+    774392785: { riddle: "I am a programming language often used for web development. What am I?", answer: "JavaScript" },
   };
 
   // Function to handle user's answer submission
